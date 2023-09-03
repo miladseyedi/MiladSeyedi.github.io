@@ -7,14 +7,35 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome
+======
+I am Milad Seyedi, an Optimization, Artificial Intelligence, and Control Theory researcher. I'm avid in expanding my knowledge, discovering profound mathematical aspects of problems, and deploying algorithmic solutions to them.
 
+About Me
+======
+
+I am an M.Sc. in Electrical Engineering (Electronic major) from the University of Tehran, Iran, and currently a Research Assistant at CSTab and  under the supervision of [Dr. Nasser Masoumi](https://scholar.google.com/citations?user=cAh_QxIAAAAJ&hl=en) & [Dr. Samad Sheikhaei](https://scholar.google.ca/citations?user=hnLGu74AAAAJ&hl=en)
+
+As a master's student, my attention was dedicated to the Optimization, Methodology of Machine Learning, and its applications in Deep Learning.
+
+Also, as a bachelor's student, I have tried to grow my understanding of control theory like Robust Control and System Identification, which I've done my bachelor's thesis under the supervision of [Dr. Morteza Mousazadeh](https://scholar.google.com/citations?user=ScGLzGQAAAAJ&hl=en)
+
+
+During the years of my study, I even managed to be involved in relevant projects to acknowledge the impact of academia in business and industry, like time series forecasting, sensorless calibration, and control routine design.
+
+Furthermore, I've been trying to achieve an acceptable level in both the theoretical and practical realms.
+
+Interests
+======
+Optimization, Mathematical explanations of Machine Learning, Reinforcement Learning, Game Theory, Optimal Decision Making (Control,) and Causality.
+<!--
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-<!--
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
