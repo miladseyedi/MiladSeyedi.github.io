@@ -18,7 +18,7 @@ I am an M.Sc. student in Electrical Engineering (Electronic major) from the Univ
 
 Throughout my academic journey, I have consistently sought to harmonize mathematical precision with the practical and theoretical dimensions of electronics, offering a unique perspective and valuable skills that can help any electronic research team.
 
-Also, as a bachelor's student, I have tried to grow my understanding of control theory like Robust Control and System Identification, which I've done my bachelor's thesis under the supervision of [Dr. Morteza Mousazadeh](https://scholar.google.com/citations?user=ScGLzGQAAAAJ&hl=en)
+Also, as a bachelor's student, I designed a platform for controlling electronic devices using image processing. My bachelor's thesis was conducted in this field under the supervision of [Dr. Morteza Mousazadeh](https://scholar.google.com/citations?user=ScGLzGQAAAAJ&hl=en)
 
 
 During my years of study, I actively participated in projects that highlighted the influence of academic research on the electronics industry. These projects focused on important areas such as high-speed measurement algorithms, de-embedding techniques, software development, and PCB design.
@@ -27,7 +27,7 @@ Furthermore, my research focus centers on developing algorithms aimed at tacklin
 
 Interests
 ======
-De-embedding Method, IC packaging, Analysis and design High-speed Interconnect, Serial Link, Measurement techniques, Bioelectronic, Software Development, and Electronic Hardware Design.
+De-embedding Method, IC Package, Analysis and Design High-speed Interconnect, Serial Link, Measurement Techniques, Bioelectronic, Software Development, and Electronic Hardware Design.
 
 <!--
 A data-driven personal website
