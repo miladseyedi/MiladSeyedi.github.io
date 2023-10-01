@@ -4,10 +4,10 @@ main:
     url: /publications/
 
   - title: "CV"
-    url: /cv/      
+    url: /files/Milad Seyedi.pdf     
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: /files/PORTFOLIO-final.pdf
 
   - title: "Talks"
     url: /talks/  
