@@ -37,6 +37,9 @@ Selected Experience
 I have developed software using Python programming language as the final outcome of my master's thesis, which can be used to apply various one-port, two-port, and three-port de-embedding methods to their respective structures.
 ![MLD](/images/MLD.png)
 
+## Flip-Chip Technology
+Interposers using flip-chip technology are vital for compact semiconductor packaging, enabling multiple chip integration. They come in silicon, organic, and glass varieties, each with unique attributes. These interposers facilitate 3D integration, high signal density, and effective thermal management. This project, a collaboration between the CIARS lab at the University of Waterloo, Canada, and the CSTLab lab at the University of Tehran, Iran, resulted in an IEEE Transactions on EMC journal article titled "Extended L-2L De-embedding for Millimeter Wave Signal Transition Through Silicon Interposer."
+![B](/images/B.png)
 <!--
 A data-driven personal website
 ======
