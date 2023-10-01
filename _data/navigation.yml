@@ -12,8 +12,8 @@ main:
   - title: "Talks"
     url: /talks/  
   
-  - title: "Sport Activity"
-    url: /sport/
+#  - title: "Sport Activity"
+#    url: /sport/
     
 #  - title: "CV"
 #    url: /cv/
