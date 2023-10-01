@@ -14,7 +14,7 @@ I am Milad Seyedi, a dedicated researcher specializing in High-Speed Interconnec
 About Me
 ======
 
-I am an M.Sc. student in Electrical Engineering (Electronic major) from the University of Tehran, Iran, and currently a Research Assistant at CSTLab and ACSDCLab under the supervision of [Dr. Nasser Masoumi](https://scholar.google.com/citations?user=cAh_QxIAAAAJ&hl=en) & [Dr. Samad Sheikhaei](https://scholar.google.ca/citations?user=hnLGu74AAAAJ&hl=en)
+I am an M.Sc. in Electrical Engineering (Electronic major) from the University of Tehran, Iran, and currently a Research Assistant at CSTLab and ACSDCLab under the supervision of [Dr. Nasser Masoumi](https://scholar.google.com/citations?user=cAh_QxIAAAAJ&hl=en) & [Dr. Samad Sheikhaei](https://scholar.google.ca/citations?user=hnLGu74AAAAJ&hl=en)
 
 Throughout my academic journey, I have consistently sought to harmonize mathematical precision with the practical and theoretical dimensions of electronics, offering a unique perspective and valuable skills that can help any electronic research team.
 
