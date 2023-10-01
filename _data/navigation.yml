@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "Publications"
+    url: /publications/
+
   - title: "CV"
     url: /files/Milad Seyedi.pdf     
     
@@ -9,8 +13,7 @@ main:
   - title: "Talks"
     url: /talks/  
 
-  - title: "Publications"
-    url: /publications/
+  
 
   
 #  - title: "Sport Activity"
