@@ -21,9 +21,9 @@ Throughout my academic journey, I have consistently sought to harmonize mathemat
 Also, as a bachelor's student, I have tried to grow my understanding of control theory like Robust Control and System Identification, which I've done my bachelor's thesis under the supervision of [Dr. Morteza Mousazadeh](https://scholar.google.com/citations?user=ScGLzGQAAAAJ&hl=en)
 
 
-During the years of my study, I even managed to be involved in relevant projects to acknowledge the impact of academia in electronic and relevant industries, like measurement, VNA calibration algorithm, and PCB designing.
+During my years of study, I actively participated in projects that highlighted the influence of academic research on the electronics industry. These projects focused on important areas such as high-speed measurement algorithms, de-embedding techniques, and PCB design.
 
-Ferthermore, my research focus centers on developing algorithms aimed at tackling the electronic measurement challenges and finding innovative solutions.
+Furthermore, my research focus centers on developing algorithms aimed at tackling the electronic measurement challenges and finding innovative solutions.
 
 Interests
 ======
