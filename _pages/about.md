@@ -33,8 +33,9 @@ Selected Experience
 ======
 
 ## MLD De-embedding Software
-![MLD](/images/MLD.png) {: .align-right width="300px"}
+
 I have developed software using Python programming language as the final outcome of my master's thesis, which can be used to apply various one-port, two-port, and three-port de-embedding methods to their respective structures.
+![MLD](/images/MLD.png)
 
 <!--
 A data-driven personal website
