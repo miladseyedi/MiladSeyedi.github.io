@@ -9,21 +9,21 @@ redirect_from:
 ---
 Welcome
 ======
-I am Milad Seyedi, an Optimization, Artificial Intelligence, and Control Theory researcher. I'm avid in expanding my knowledge, discovering profound mathematical aspects of problems, and deploying algorithmic solutions to them.
+I am Milad Seyedi, a dedicated researcher specializing in High-Speed Interconnect Analysis, High-Speed Measurement Methods, and Electronics. My deep passion is to continuously expand my knowledge in these fields, immersing myself in the intricate mathematics that comes with high-speed measurement challenges. 
 
 About Me
 ======
 
 I am an M.Sc. in Electrical Engineering (Electronic major) from the University of Tehran, Iran, and currently a Research Assistant at CSTLab and ACSDCLab under the supervision of [Dr. Nasser Masoumi](https://scholar.google.com/citations?user=cAh_QxIAAAAJ&hl=en) & [Dr. Samad Sheikhaei](https://scholar.google.ca/citations?user=hnLGu74AAAAJ&hl=en)
 
-As a master's student, my attention was dedicated to the Optimization, Methodology of Machine Learning, and its applications in Deep Learning.
+Throughout my academic journey, I have consistently sought to harmonize mathematical precision with the practical and theoretical dimensions of electronics, offering a unique perspective and valuable skills that can help any electronic research team.
 
 Also, as a bachelor's student, I have tried to grow my understanding of control theory like Robust Control and System Identification, which I've done my bachelor's thesis under the supervision of [Dr. Morteza Mousazadeh](https://scholar.google.com/citations?user=ScGLzGQAAAAJ&hl=en)
 
 
-During the years of my study, I even managed to be involved in relevant projects to acknowledge the impact of academia in business and industry, like time series forecasting, sensorless calibration, and control routine design.
+During the years of my study, I even managed to be involved in relevant projects to acknowledge the impact of academia in electronic and relevant industries, like measurement, VNA calibration algorithm, and PCB designing.
 
-Furthermore, I've been trying to achieve an acceptable level in both the theoretical and practical realms.
+Ferthermore, my research focus centers on developing algorithms aimed at tackling the electronic measurement challenges and finding innovative solutions.
 
 Interests
 ======
