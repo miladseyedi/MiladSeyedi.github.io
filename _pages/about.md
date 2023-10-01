@@ -35,18 +35,22 @@ Selected Experience
 ## MLD De-embedding Software
 
 I have developed software using Python programming language as the final outcome of my master's thesis, which can be used to apply various one-port, two-port, and three-port de-embedding methods to their respective structures.
+
 ![MLD](/images/MLD.png)
 
 ## Flip-Chip Technology
 Interposers using flip-chip technology are vital for compact semiconductor packaging, enabling multiple-chip integration. They come in silicon, organic, and glass varieties, each with unique attributes. These interposers facilitate 3D integration, high signal density, and effective thermal management. This project, a collaboration between the CIARS lab at the University of Waterloo, Canada, and the CSTLab lab at the University of Tehran, Iran, resulted in an IEEE Transactions on EMC journal article titled "Extended L-2L De-embedding for Millimeter Wave Signal Transition Through Silicon Interposer."
+
 ![B](/images/B.png)
 
 ## Deep Brain Stimulation (DBS)
 Deep Brain Stimulation (DBS) is a therapeutic approach that uses implantable devices to alleviate symptoms of neurological disorders like Parkinson's disease by delivering precise electrical stimulation to targeted brain areas. The DBS project, initiated at Tehran University in 2018, involved a collaborative team of professors from the Faculty of Electrical, metallurgy experts, and faculty members from Tarbiat Modares University and Sahand University. Their goal was to develop an integrated circuit (IC) at the IC level to advance DBS technology. In this project, my role was crucial in overcoming testing limitations by creating specialized test boards, enabling comprehensive evaluation of diced ICs and enhancing the project's success.
+
 ![Zoom2](/images/Zoom2.png)
 
 ## PCB and Testing Checklist
 Checklists are crucial tools in PCB design and testing during mass production. In the design phase, they reduce errors, ensure compliance with standards, optimize costs, and boost performance. In testing, checklists ensure quality assurance, validate functionality, identify faults, maintain traceability and consistency, enhance efficiency, aid in documentation, and support continuous improvement. These systematic guides benefit designers and testers, resulting in high-quality PCBs, streamlined processes, and regulatory compliance. Specifically, at SEDNA, a checklist was developed in response to identified hardware and testing issues, along with problems in final product output files for mass production. This checklist has since become an internal standard for the company's hardware design process. For more details, you can click [here](https://drive.google.com/file/d/126AwaW45QZ8wOkgMUno-SutQcHb4GHZN/view?usp=drive_link).
+
 ![Cheklist](/images/Cheklist.png)
 
 
