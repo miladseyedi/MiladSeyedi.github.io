@@ -1,5 +1,5 @@
 ---
-title: "Using De-embedding Techniques forAnalyzing Die-to-Die Interconnectsthrough Interposer Technology"
+title: "Analyze of Die-to-Die Interposer Technology Interconnects"
 collection: talks
 type: "Talk"
 permalink: /talks/CSTLab_talk 9-9-2021
