@@ -1,5 +1,5 @@
 ---
-title: "De-embedding Techniques for Evaluation of Die-Die Interconnect structure on theInterposer Technology"
+title: "De-embedding Techniques"
 collection: talks
 type: "Talk"
 permalink: /talks/CSTLab_talk 19-7-2021
