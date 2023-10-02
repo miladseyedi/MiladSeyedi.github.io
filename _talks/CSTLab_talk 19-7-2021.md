@@ -2,7 +2,7 @@
 title: "De-embedding Techniques for Evaluation of Die-Die Interconnect structure on theInterposer Technology"
 collection: talks
 type: "Talk"
-permalink: /talks/CSTLab_talk 21-4-2021
+permalink: /talks/CSTLab_talk 19-7-2021
 venue: "CSTLab Weekly Talks"
 date: 2021-04-21
 location: "Tehran, Iran"
