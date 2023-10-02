@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/CSTLab_talk 21-4-2021
 venue: "CSTLab Weekly Talks"
-date: 2021-04-21
+date: 2021-08-21
 location: "Tehran, Iran"
 ---
 
