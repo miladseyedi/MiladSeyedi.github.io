@@ -11,4 +11,4 @@ location: "Tehran, Iran"
 
 I'll be talking about my progress in research, building up a mathematical platform using L-2L de-embedding for Signal Integrity in Flip-Chip interconnect communication.
 
-You may find a shortened version of my presentation slides [here](https://mopsd.github.io/files/Y&Z_L-2L_Microstrip.pdf).
+You may find a shortened version of my presentation slides [here](https://MiladSeyedi.github.io/files/Y&Z_L-2L_Microstrip.pdf).
