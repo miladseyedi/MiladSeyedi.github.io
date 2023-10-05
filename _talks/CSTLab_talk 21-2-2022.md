@@ -11,4 +11,4 @@ location: "Tehran, Iran"
 
 I'll be talking about my progress in research, using new L-2L de-embedding methodology for Signal Integrity in PCB and larg-scale interconnect communication.
 
-You may find a shortened version of my presentation slides [here](https://mopsd.github.io/files/Y&Z_L-2L_Microstrip.pdf).
+You may find a shortened version of my presentation slides [here](https://MiladSeyedi.github.io/files/Y&Z_L-2L_Microstrip.pdf).
